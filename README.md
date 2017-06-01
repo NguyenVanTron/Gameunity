@@ -1,5 +1,6 @@
 # Gameunity
-Sử dụng IDE Unity để xây dựng và tạo ra chương trình
+Sử dụng IDE Unity để xây dựng và chạy chương trình
+
 Cảnh 1: Di chuyển tàu né tàu khác hoặc đạn có thể bán trả tàu khác.
 
 Nếu bắn hạ được địch sẽ được cộng điểm và tiền.
