@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 186abed4d1fec644e98cbb747a167f7c
+timeCreated: 1466495155
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 4
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 482
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -283}
+        - {x: 62, y: -301}
+        - {x: 110, y: -356}
+        - {x: 139, y: -376}
+        - {x: 155, y: -370}
+        - {x: 164, y: -361}
+        - {x: 180, y: -341}
+        - {x: 208, y: -304}
+        - {x: 205, y: -288}
+        - {x: 182, y: -258}
+        - {x: 169, y: -266}
+        - {x: 169, y: -284}
+        - {x: 153, y: -284}
+        - {x: 152, y: -258}
+        - {x: 140, y: -234}
+        - {x: 143, y: -223}
+        - {x: 157, y: -192}
+        - {x: 158, y: -167}
+        - {x: 159, y: -126}
+        - {x: 154, y: -105}
+        - {x: 143, y: -85}
+        - {x: 125, y: -67}
+        - {x: 132, y: -55}
+        - {x: 171, y: -37}
+        - {x: 189, y: -25}
+        - {x: 188, y: 4}
+        - {x: 213, y: 39}
+        - {x: 222, y: 54}
+        - {x: 228, y: 92}
+        - {x: 207, y: 139}
+        - {x: 205, y: 159}
+        - {x: 203, y: 199}
+        - {x: 230, y: 198}
+        - {x: 241, y: 206}
+        - {x: 241, y: 236}
+        - {x: 224, y: 267}
+        - {x: 210, y: 284}
+        - {x: 190, y: 305}
+        - {x: 186, y: 309}
+        - {x: 159, y: 316}
+        - {x: 125, y: 338}
+        - {x: 80, y: 354}
+        - {x: 48, y: 369}
+        - {x: 30, y: 376}
+        - {x: 10, y: 379}
+        - {x: -82, y: 379}
+        - {x: -102, y: 375}
+        - {x: -121, y: 367}
+        - {x: -124, y: 356}
+        - {x: -95, y: 341}
+        - {x: -121, y: 309}
+        - {x: -153, y: 279}
+        - {x: -174, y: 251}
+        - {x: -183, y: 235}
+        - {x: -195, y: 235}
+        - {x: -237, y: 236}
+        - {x: -241, y: 233}
+        - {x: -241, y: 221}
+        - {x: -216, y: 169}
+        - {x: -204, y: 149}
+        - {x: -201, y: 102}
+        - {x: -192, y: 64}
+        - {x: -172, y: 26}
+        - {x: -152, y: 7}
+        - {x: -133, y: 3}
+        - {x: -106, y: -6}
+        - {x: -91, y: -17}
+        - {x: -51, y: -37}
+        - {x: -30, y: -41}
+        - {x: -45, y: -49}
+        - {x: -54, y: -57}
+        - {x: -76, y: -80}
+        - {x: -88, y: -94}
+        - {x: -115, y: -137}
+        - {x: -129, y: -176}
+        - {x: -132, y: -198}
+        - {x: -132, y: -252}
+        - {x: -127, y: -283}
+        - {x: -120, y: -290}
+        - {x: -106, y: -277}
+        - {x: -81, y: -294}
+        - {x: -86, y: -298}
+        - {x: -91, y: -304}
+        - {x: -91, y: -317}
+        - {x: -84, y: -328}
+        - {x: -37, y: -379}
+        - {x: 2, y: -379}
+        - {x: 10, y: -378}
+        - {x: 19, y: -362}
+        - {x: -5, y: -341}
+        - {x: 14, y: -311}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
